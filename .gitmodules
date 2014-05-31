@@ -1,0 +1,18 @@
+[submodule "php"]
+	path = php
+	url = https://github.com/php/php-src.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/ruby/ruby.git
+[submodule "haskell"]
+	path = haskell
+	url = git://git.haskell.org/ghc.git
+[submodule "julia"]
+	path = julia
+	url = https://github.com/JuliaLang/julia.git
+[submodule "fortran"]
+	path = fortran
+	url = git://git.code.sf.net/p/fortran-parser/fortran-parser
+[submodule "perl"]
+	path = perl
+	url = git://perl5.git.perl.org/perl.git
