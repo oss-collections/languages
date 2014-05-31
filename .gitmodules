@@ -16,3 +16,6 @@
 [submodule "perl"]
 	path = perl
 	url = git://perl5.git.perl.org/perl.git
+[submodule "pypy"]
+	path = pypy
+	url = hg::https://bitbucket.org/pypy/pypy
