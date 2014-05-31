@@ -19,3 +19,6 @@
 [submodule "pypy"]
 	path = pypy
 	url = hg::https://bitbucket.org/pypy/pypy
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/python/cpython.git
