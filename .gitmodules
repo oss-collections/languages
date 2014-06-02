@@ -22,3 +22,6 @@
 [submodule "cpython"]
 	path = cpython
 	url = https://github.com/python/cpython.git
+[submodule "rust"]
+	path = rust
+	url = git://github.com/mozilla/rust.git
