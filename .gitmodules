@@ -25,3 +25,6 @@
 [submodule "rust"]
 	path = rust
 	url = git://github.com/mozilla/rust.git
+[submodule "dart"]
+	path = dart
+	url = https://github.com/dart-lang/bleeding_edge.git
